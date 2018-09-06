@@ -1,11 +1,13 @@
-# PHP project
+# PHP Project
+
 This is a php project
 
 ## components
 #### Front end
--Bootstrap
--jQuery
--Popper.js
+- Bootstrap
+- jQuery
+- Popper.js
+
 ### Back end
--PHP
--MySQL
+- PHP
+- MySQL# sellmygame
